@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(143, 140, 140);
+    font: oblique bold 120% cursive;
+}
+#container {
+    text-align: center;
+    width: 35%;
+    margin: auto;
+    margin-top: 15%;
+    border: solid 5px;
+    border-radius: 10px;
+    background-color: rgba(70, 123, 139, 0.63);
+}
+
+input[type="submit"]{
+    color: black;
+}
