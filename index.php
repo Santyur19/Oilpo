@@ -12,7 +12,7 @@
     <br>
 
     <div id="container">
-        <form action="php/login.php" method="POST">
+        <form action="menu.php" method="POST">
             <h1 align="center">Oilpo</h1>
             <br>
             <br>

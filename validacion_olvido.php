@@ -19,7 +19,7 @@
                 echo "<h6>El correo se ha enviado a <strong> $correo</strong> </h6>";
             ?>
         <br>
-        <button type="button" class="btn btn-primary" onclick="location.href=('login.php')">Aceptar</button>
+        <button type="button" class="btn btn-primary" onclick="location.href=('index.php')">Aceptar</button>
         <br>
         <br>
     </div>

@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(143, 140, 140);
+    font: oblique bold 120% cursive;
+}
+#tablas{
+    position: static;
+    margin-left: 30%;
+    /* margin-top: 25%; */
+    width:100px;
+    text-align: center;
+    background-color:black;
+
+}
+#table{
+    height: 50%;
+}
+button{
+    background-color:transparent;
+    font-size: 40px;
+    border-color: transparent;
+    color: white;
+    margin-left: 500px;
+
+
+}
+#container{
+    height: 100px;
+    background-color:black;
+    
+}
+#Sbody{
+    background-color: #24303c;
+    padding: 1px;
+    width: 100%;
+    background-position: top;
+    
+}
+span{
+    font-size: 50px;
+    margin-left:5px;
+    color: white;
+
+}
